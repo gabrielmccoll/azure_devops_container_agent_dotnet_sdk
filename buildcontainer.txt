@@ -1,0 +1,1 @@
+docker build .  -e TARGETARCH=linux-arm64 gabrielmccoll/netagent:latest
